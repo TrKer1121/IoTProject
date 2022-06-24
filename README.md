@@ -1,4 +1,4 @@
-# IoTProject
+IoTProject
 
 Đây là project cuối kì của môn học IoT trong lĩnh vực Cơ điện tử với đề tài: SEND MULTIPLE SENSORS DATA WIRELESSLY
 USING ARDUINO
